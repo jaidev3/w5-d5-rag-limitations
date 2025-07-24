@@ -1,0 +1,13 @@
+langchain-community
+langchain-openai
+openai
+python-dotenv
+pandas
+numpy
+faker
+plotly
+streamlit
+sqlalchemy
+langchain
+langchain-core
+pprint
